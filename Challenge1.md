@@ -42,3 +42,14 @@ x+4=124
 x+6=126
 
 ```
+
+## 5. Birju, Bankim and Boney begin to jog around a circular stadium. They complete their revolutions in 36 seconds, 48 seconds and 63 seconds respectively. After how many seconds will they be together at the starting point?
+
+```apt
+Ans : 1008
+Take the LCM of the time,
+
+Therefore, after 3 * 3 * 4 *1 *4 * 7 = 1008
+ seconds they willl meet.
+
+```
