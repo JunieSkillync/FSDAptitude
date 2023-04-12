@@ -6,6 +6,7 @@ A, B and C jointly thought of engaging themselves in a business venture. It was 
 #2
 
 A, B and C enter into a partnership in the ratio (7/2) : (4/3) : (6/5). After 4 months, A increases his share 50%. If the total profit at the end of one year be Rs. 21,600, then B's share in the profit is:
+
 ![bg width:1000px](./Screenshot_13.png)
 
 #3
